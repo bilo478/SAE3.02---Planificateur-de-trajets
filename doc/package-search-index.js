@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.am.sae302"},{"l":"fr.am.sae302.api"},{"l":"fr.am.sae302.config"},{"l":"fr.am.sae302.database"},{"l":"fr.am.sae302.model"},{"l":"fr.am.sae302.parsing"},{"l":"fr.am.sae302.server"},{"l":"fr.am.sae302.service"},{"l":"fr.am.sae302.ui"}];updateSearchResults();

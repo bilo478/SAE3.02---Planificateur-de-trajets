@@ -1,0 +1,20 @@
+{
+  "prenom": "Pep",
+  "nom": "Guardiola",
+  "age": 53,
+  "club": "Manchester City",
+  "palmares": {
+    "ligues": 11,
+    "ligues_des_champions": 3,
+    "coupes_nationales": 7
+  },
+  "clubs_entraines": [
+    "FC Barcelone",
+    "Bayern Munich",
+    "Manchester City"
+  ],
+  "surnoms": [
+    "Le Philosophe",
+    "L'Architecte du jeu"
+  ]
+}
